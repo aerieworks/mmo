@@ -12,4 +12,4 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
+//= require aerie_works/mmo/game_client/init
